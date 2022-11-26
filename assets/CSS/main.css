@@ -1,0 +1,65 @@
+body{
+    background-color:antiquewhite;
+}
+.navbar {
+    background-color:antiquewhite;
+
+}
+.navbar .navbar-collapse .navbar-nav .dropdown .dropdown-menu {
+    width: 400px;
+    margin-top: 20px;
+    border: 1 solid ;
+    border-radius: 10px;
+    padding: 20px;
+}
+.navbar .navbar-collapse .navbar-nav .dropdown .dropdown-menu ul li{
+
+}
+.products{
+    background-color: aliceblue;
+    border: 0px solid ;
+    border-radius: 10px;
+    padding: 20px;
+    width: 400px;
+    position: absolute;
+    top:10%;
+    left:450px;
+    display: none;
+}
+.products .l1{
+    list-style-image: url(../Images/Spense_Icon.svg);
+}
+.products .l2{
+    list-style-image: url(../Images/Fiber_Icon.svg);
+}
+.products .l3{
+    list-style-image: url(../Images/Gradie_Icon.svg);
+}
+.navbar ul li{
+}
+.navbar ul li{
+    margin: 0 20px;
+}
+.container .row .content{
+margin-top:120px;
+}
+.container .row .content h1{
+    font-weight:bolder;
+    font-size: 50px;
+}
+.container .foot{
+    text-align: center;
+    margin-top: 50px;
+}
+/* #panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panel {
+    padding: 50px;
+    display: none;
+  } */
+  
